@@ -5,6 +5,7 @@ body, html{
 
 .hero-image{
    background-image: url(/Portfolio/Assets/moshpit.PNG);
+   background-color: black;
    height: 100%;
    background-position: center;
    background-repeat: no-repeat;
