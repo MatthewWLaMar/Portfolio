@@ -1,0 +1,13 @@
+
+
+.background{
+    background-image: url(/Portfolio/Assets/moshpit.PNG);
+    height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.navbar{
+    font-family: 'Uchen', serif;
+}
